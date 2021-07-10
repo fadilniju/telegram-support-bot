@@ -1,0 +1,6 @@
+TELEGRAM_TOKEN= 1792544482:AAFB63GZCSVMMOsLfTxbtdmS_LFvbSTrIW8
+TELEGRAM_SUPPORT_CHAT_ID= 595603935
+
+# optional params
+HEROKU_APP_NAME= fadillive
+WELCOME_MESSAGE=  Hello user , you can contact my master using this bot this bot was made by @Fadil_pm
